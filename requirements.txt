@@ -3,4 +3,4 @@ seaborn
 matplotlib
 scikit-learn
 joblib
-plolty
+plotly
