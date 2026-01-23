@@ -257,7 +257,7 @@ with st.sidebar:
     """)
     
     st.markdown("---")
-    st.caption("Last updated: December 2024")
+    st.caption("Last updated: December 2025")
 
 # Create tabs
 tab1, tab2, tab3, tab4 = st.tabs(["📝 Input Data", "📈 Results", "📚 History", "❓ Help"])
@@ -698,7 +698,7 @@ st.markdown("""
         because of something you have read or seen in this application.
     </p>
     <p style='color: #999; margin-top: 1rem; font-size: 0.85rem;'>
-        Powered by Machine Learning | Built with ❤️ using Streamlit | © 2024
+        Powered by Machine Learning | Built with ❤️ using Streamlit | © 2025
     </p>
 </div>
 """, unsafe_allow_html=True)
